@@ -26,7 +26,7 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>DeckLinkAPIDispatch.cpp</name>
+			<name>src/DeckLinkAPIDispatch.cpp</name>
 			<type>1</type>
 			<location>/opt/Blackmagic DeckLink SDK 9.7.1/Linux/include/DeckLinkAPIDispatch.cpp</location>
 		</link>
