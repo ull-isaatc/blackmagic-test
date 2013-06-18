@@ -1,5 +1,6 @@
 ## Requisitos
 
+ * Blackmagic DeckLink SDK
  * OpenCV 2.4
  * Boost C++
 
@@ -19,4 +20,4 @@ Además el proyecto incluye una referencia al recurso externo
 que los archivos de cabecera del SDK. Obviamente si el SDK se ha instalado en
 una ubicación diferente, la ruta de dicho recurso externo debe ser actualizada.
 
--- Jesús Torres <jmtorres@ull.es> 
+-- Jesús Torres &lt;jmtorres@ull.es&gt; 
